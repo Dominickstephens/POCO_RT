@@ -84,7 +84,7 @@ Note: You'll need to provide the correct paths to your POCO configuration file (
 
 
 
-
+# For Installation, see below
 
 
 # POCO: Pose and Shape Estimation with Confidence [3DV 2024]
