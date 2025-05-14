@@ -6,6 +6,7 @@ These POCO-based scripts serve as an alternative or comparative pose estimation 
 
 **Main REMI Project Page:** (https://dominickstephens.github.io/REMI_page/)
 **Ipman-R (Alternative Pose Estimation) Component:** [https://github.com/Dominickstephens/ipman-r-RT](https://github.com/Dominickstephens/ipman-r-RT)
+
 **Aitviewer (Real-time Visualization) Component:** [https://github.com/Dominickstephens/aitviewer-skel-RT](https://github.com/Dominickstephens/aitviewer-skel-RT)
 
 ## Overview
